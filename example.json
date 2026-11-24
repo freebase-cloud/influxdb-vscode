@@ -1,0 +1,6 @@
+{
+  "name": "influxdb-vscode",
+  "engine": "influxdb",
+  "slug": "influxdb",
+  "kind": "starter"
+}
